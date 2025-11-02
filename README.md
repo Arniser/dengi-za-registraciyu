@@ -92,7 +92,7 @@
 	<p><strong>Выбираете</strong>&nbsp;проект из&nbsp;<a href="https://github.com/Arniser" rel="noreferrer" target="_blank">списка лучших предложений</a></p>
 	</li>
 	<li>
-	<p><strong>Регистрируетесь</strong>&nbsp;через&nbsp;<a href="https://bonusregistraciya.tb.ru/registraciya" rel="noreferrer" target="_blank">официальную страницу</a></p>
+	<p><strong>Регистрируетесь</strong>&nbsp;через&nbsp;<a href="https://topbonusregistraciya.tb.ru/" rel="noreferrer" target="_blank">официальную страницу</a></p>
 	</li>
 	<li>
 	<p><strong>Подтверждаете</strong>&nbsp;email/телефон</p>
@@ -222,7 +222,7 @@ A: Карты, Qiwi, Яндекс.Деньги, криптовалюта.</p>
 
 <h2>Деньги за регистрацию - полное руководство 2025</h2>
 
-<p>Программы&nbsp;<strong><a href="https://bonusregistraciya.tb.ru/registraciya" rel="noreferrer" target="_blank">&quot;деньги за регистрацию&quot;</a></strong>&nbsp;- это маркетинговый инструмент, который используют онлайн-платформы для привлечения новых пользователей. Суть проста: вы регистрируетесь на сайте или в приложении, подтверждаете свои данные и получаете денежное вознаграждение.</p>
+<p>Программы&nbsp;<strong><a href="https://topbonusregistraciya.tb.ru/1000-rublej" rel="noreferrer" target="_blank">&quot;деньги за регистрацию&quot;</a></strong>&nbsp;- это маркетинговый инструмент, который используют онлайн-платформы для привлечения новых пользователей. Суть проста: вы регистрируетесь на сайте или в приложении, подтверждаете свои данные и получаете денежное вознаграждение.</p>
 
 <h3>Основные принципы работы:</h3>
 
@@ -464,7 +464,7 @@ A: Карты, Qiwi, Яндекс.Деньги, криптовалюта.</p>
 	<p><strong>Выберите платформу</strong>&nbsp;из&nbsp;<strong><a href="https://github.com/Arniser" rel="noreferrer" target="_blank">проверенного списка</a></strong></p>
 	</li>
 	<li>
-	<p><strong>Зарегистрируйтесь</strong>&nbsp;по&nbsp;<strong><a href="https://bonusregistraciya.tb.ru/registraciya" rel="noreferrer" target="_blank">специальной ссылке</a></strong></p>
+	<p><strong>Зарегистрируйтесь</strong>&nbsp;по&nbsp;<strong><a href="https://topbonusregistraciya.tb.ru/registraciya" rel="noreferrer" target="_blank">специальной ссылке</a></strong></p>
 	</li>
 	<li>
 	<p><strong>Подтвердите аккаунт</strong></p>
@@ -574,7 +574,7 @@ A: Карты, Qiwi, Яндекс.Деньги, криптовалюта.</p>
 			<td>1000₽</td>
 			<td>&times;30</td>
 			<td>Мгновенно</td>
-			<td><strong><a href="https://bonusregistraciya.tb.ru/registraciya" rel="noreferrer" target="_blank">Получить</a></strong></td>
+			<td><strong><a href="https://topbonusregistraciya.tb.ru/" rel="noreferrer" target="_blank">Получить</a></strong></td>
 		</tr>
 		<tr>
 			<td>2</td>
